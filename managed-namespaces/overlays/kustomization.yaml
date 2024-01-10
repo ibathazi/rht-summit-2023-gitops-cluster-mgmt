@@ -1,2 +1,4 @@
 bases:
 - ./project-memes-dev
+- ./project-memes-prod
+
